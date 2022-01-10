@@ -14,6 +14,15 @@
 <br/>  
 
 
+## News
+- <div align='left'>
+  Our project 'climate change and infectious disease' has won 1st place in IBM Call for Code Research Challenge for Climate Change 2021! The video about our project is available   <a href="https://video.ibm.com/recorded/130982861" target="_blank"> here</a>. The introduction of our project starts at 33:57
+  </div>
+
+- <div align='left'>
+  My bachelor thesis <a href="https://www.mdpi.com/2504-3900/31/1/81"> The PRISMA: A Visual Feedback Display for Learning Scenarios</a> got published at the 13th International Conference on Ubiquitous Computing and Ambient Intelligence UCAmI 2019, Toledo, Spain, 2–5 December 2019.
+  </div>
+
 ## My Skill Set  
 
 
@@ -26,7 +35,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
@@ -63,7 +71,3 @@
 <br/>  
 
 
-## News
-Our project 'climate change and infectious disease' has won 1st place in IBM Call for Code Research Challenge for Climate Change 2021! The video about our project is available </a>
-<a href="https://video.ibm.com/recorded/130982861" target="_blank"> here
-</a>. The introduction of our project starts at 33:57
