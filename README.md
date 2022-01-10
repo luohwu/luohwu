@@ -1,9 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+### Introduction
 
-### <div align="center">I'm Luohong Wu, a master student in Computational Science and Engineering</div>  
+<div align="left">
+  I am a master's student in Computational Science and Engineering at ETH Zurich. Previously, I obtained my bachelor's degree in Software Engineering at Northwestern Polytechnical University. During my bachelor's study, I was a member of the software group of the Robot Base of Northwestern Polytechnical University (RBNPU) supervised by Prof Haobin Shi, where I have researched computer vision, decision making, and path planning. In addition, I have finished my bachelor thesis project about ubiquitous computing at Universidad Politécnica de Madrid supervised by Prof. Bernardo Tabuenca Archilla.
+<br/>
+<br/>
+  Currently, I am doing my master thesis project "Modeling and Predicting Human Intention through Object Interaction" at AIT ETH by Prof.Otmar Hilliges, Dr. Xi Wang, and Mr. Emre Aksan . In this project, we aim to predict objects that a person will interact with before the interaction happens. 
+
+</div>  
+<br/>
   
   
 
