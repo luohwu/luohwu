@@ -1,5 +1,5 @@
 ### Introduction
-Please visit my <a href="luohwu.github.io"><strong> personal website</strong> </a>
+## Please visit my <a href="luohwu.github.io"><strong> personal website</strong> </a>
 <!-- <div align="left">
   I am a master's student in Computational Science and Engineering at ETH Zurich. Previously, I obtained my bachelor's degree in Software Engineering at Northwestern Polytechnical University. During my bachelor's study, I was a member of the software group of the Robot Base of Northwestern Polytechnical University (RBNPU) supervised by Prof Haobin Shi, where I have researched computer vision, decision making, and path planning. In addition, I have finished my bachelor thesis project about ubiquitous computing at Universidad Politécnica de Madrid supervised by Prof. Bernardo Tabuenca Archilla.
 <br/>
